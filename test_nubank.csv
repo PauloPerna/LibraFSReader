@@ -1,0 +1,205 @@
+,date,description,value,initial_balance,final_balance
+0,2022-01-05,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-148.0,298.2,0.0
+1,2022-01-07,Transferência recebida pelo Pix LUIZ FERNANDO COSTA SILVA - 123.121.357-44 -,700.0,298.2,0.0
+2,2022-01-07,Compra no débito Padaria Diniz,-30.5,298.2,0.0
+3,2022-01-07,Transferência enviada pelo Pix Miguel Costa e Silva - 171.733.947-67 - BCO,-690.0,298.2,0.0
+4,2022-01-07,Pagamento da fatura Cartão Nubank,-70.0,298.2,0.0
+5,2022-01-07,Recarga de celular,-15.0,298.2,0.0
+6,2022-01-07,Transferência enviada pelo Pix Darkson Antonio Do Nascimento - 104.711.947-19 -,-20.0,298.2,0.0
+7,2022-01-08,Transferência enviada pelo Pix Rodrigo Gomes bazelato - 147.508.467-67 - NU,-20.0,298.2,0.0
+8,2022-01-09,Transferência recebida pelo Pix JOMAR SALES DE SOUZA - 945.775.105-10 -,8.0,298.2,0.0
+9,2022-01-12,Resgate de limite adicional,20.51,298.2,0.0
+10,2022-01-12,Transferência enviada pelo Pix LLS MARKETING DIGITAL LTDA - 40.070.147/0001-,-0.99,298.2,0.0
+11,2022-01-12,Contratação de limite adicional,-0.5,298.2,0.0
+12,2022-01-15,Transferência enviada pelo Pix Jomar Sales De Souza - 945.775.105-10 - SICOOB,-12.0,298.2,0.0
+13,2022-01-15,Transferência enviada pelo Pix Luiz Eduardo Costa Silva - 142.094.177-18 - CAIXA,-12.0,298.2,0.0
+14,2022-01-17,Contratação de limite adicional,-7.93,298.2,0.0
+15,2022-03-04,Transferência Recebida Evaneth Alves Costa - 030.959.107-46 - NU,10.0,0.42,251.47
+16,2022-03-04,Transferência enviada pelo Pix WERLEM NOGUEIRA DA ROCHA - 137.077.497-46 -,-10.0,0.42,251.47
+17,2022-03-07,Transferência Recebida Evaneth Alves Costa - 030.959.107-46 - NU,15.0,0.42,251.47
+18,2022-03-07,Recarga de celular,-15.0,0.42,251.47
+19,2022-03-08,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,250.0,0.42,251.47
+20,2022-03-08,Transferência Recebida Eliza de oliveira Cícero - 188.791.827-22 - NU,10.0,0.42,251.47
+21,2022-03-08,Transferência enviada pelo Pix LUXPAG - 35.061.836/0001-80 - BCO BS2 S.A.,-100.0,0.42,251.47
+22,2022-03-08,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-150.0,0.42,251.47
+23,2022-03-09,Transferência Recebida William rodrigues dos santos - 024.921.245-50 - NU,50.0,0.42,251.47
+24,2022-03-09,Pagamento da fatura Cartão Nubank,-10.0,0.42,251.47
+25,2022-03-09,Transferência enviada pelo Pix Danieli costa Gonçalves - 149.125.737-79 - NU,-24.0,0.42,251.47
+26,2022-03-09,Compra no débito Big Acai,-18.98,0.42,251.47
+27,2022-03-10,Transferência enviada pelo Pix Jose Carlos da Silva - 013.681.664-90 - NU,-5.0,0.42,251.47
+28,2022-03-11,Transferência recebida pelo Pix igor Costa Campos - 151.889.867-01 - BANCO PAN,980.0,0.42,251.47
+29,2022-03-11,Pagamento da fatura Cartão Nubank,-50.0,0.42,251.47
+30,2022-03-11,Transferência enviada pelo Pix Alesson Rosa da Costa - 178.215.807-32 - BANCO,-10.0,0.42,251.47
+31,2022-03-12,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-436.0,0.42,251.47
+32,2022-03-12,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-5.0,0.42,251.47
+33,2022-03-12,Transferência enviada pelo Pix TATU LANCHES - 13.320.539/0001-70 - BCO,-16.0,0.42,251.47
+34,2022-03-12,Transferência enviada pelo Pix Luiz Eduardo Costa Silva - 142.094.177-18 - CAIXA,-10.0,0.42,251.47
+35,2022-03-13,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-250.0,0.42,251.47
+36,2022-03-13,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-165.0,0.42,251.47
+37,2022-03-14,Transferência Recebida Emerson Rosendo Do Nascimento - 183.879.257-05,12.0,0.42,251.47
+38,2022-03-14,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-12.0,0.42,251.47
+39,2022-03-15,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,100.0,0.42,251.47
+40,2022-03-15,Transferência recebida pelo Pix IGOR COSTA CAMPOS - 151.889.867-01 - CAIXA,600.0,0.42,251.47
+41,2022-03-15,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-140.0,0.42,251.47
+42,2022-03-15,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-500.0,0.42,251.47
+43,2022-03-16,Transferência recebida pelo Pix IGOR COSTA CAMPOS - 151.889.867-01 - CAIXA,300.0,0.42,251.47
+44,2022-03-16,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,100.0,0.42,251.47
+45,2022-03-16,Pagamento da fatura Cartão Nubank,-400.0,0.42,251.47
+46,2022-03-16,Transferência enviada pelo Pix Luiz Eduardo Costa Silva - 142.094.177-18 - CAIXA,-50.0,0.42,251.47
+47,2022-03-16,Transferência enviada pelo Pix Luiz Fernando Costa Silva - 123.121.357-44 - BCO,-12.0,0.42,251.47
+48,2022-03-17,Transferência Recebida,516.94,0.42,251.47
+49,2022-03-17,Transferência recebida pelo Pix Isaias De Souza Silva Nascimento - 079.969.045-70,11.0,0.42,251.47
+50,2022-03-17,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,100.0,0.42,251.47
+51,2022-03-17,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,300.0,0.42,251.47
+52,2022-03-17,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,200.0,0.42,251.47
+53,2022-03-17,Pagamento de boleto efetuado Orgaos Governamentais (Codigo da Instituicao,-121.05,0.42,251.47
+54,2022-03-17,Pagamento de boleto efetuado CENTRO DE FORMACAO DE CONDUTORES,-121.05,0.42,251.47
+55,2022-03-17,Transferência enviada pelo Pix Miguel Costa e Silva - 171.733.947-67 - BCO,-40.0,0.42,251.47
+56,2022-03-17,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-11.0,0.42,251.47
+57,2022-03-17,Transferência enviada pelo Pix Rafaelle Alcantara Feliz Da Silva - 159.466.587-78 -,-13.0,0.42,251.47
+58,2022-03-17,Transferência enviada pelo Pix Luiz Eduardo Costa Silva - 142.094.177-18 - CAIXA,-40.0,0.42,251.47
+59,2022-03-17,Recarga de celular,-15.0,0.42,251.47
+60,2022-03-17,Transferência enviada pelo Pix Alesson Rosa da Costa - 178.215.807-32 - BANCO,-100.0,0.42,251.47
+61,2022-03-18,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,500.0,0.42,251.47
+62,2022-03-18,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,500.0,0.42,251.47
+63,2022-03-18,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,500.0,0.42,251.47
+64,2022-03-18,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,500.0,0.42,251.47
+65,2022-03-18,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,2000.0,0.42,251.47
+66,2022-03-18,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,426.0,0.42,251.47
+67,2022-03-18,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,1000.0,0.42,251.47
+68,2022-03-18,Transferência enviada pelo Pix TATU LANCHES - 13.320.539/0001-70 - BCO,-18.0,0.42,251.47
+69,2022-03-18,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-687.0,0.42,251.47
+70,2022-03-19,Transferência enviada pelo Pix TATU LANCHES - 13.320.539/0001-70 - BCO,-4.0,0.42,251.47
+71,2022-03-19,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-1000.0,0.42,251.47
+72,2022-03-19,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-4000.0,0.42,251.47
+73,2022-03-19,Transferência enviada pelo Pix CENTRO DE FORMACAO DE CONDUTORES,-100.0,0.42,251.47
+74,2022-03-19,Transferência enviada pelo Pix Deivid Gabriel Rosa Da Silva - 864.560.590-20 -,-100.0,0.42,251.47
+75,2022-03-19,Transferência enviada pelo Pix João Batista Alves Costa - 125.492.217-29 - NU,-21.0,0.42,251.47
+76,2022-03-19,Transferência enviada pelo Pix Henrique Viegas da Silva - 452.587.018-40 - NU,-120.0,0.42,251.47
+77,2022-03-20,Transferência recebida pelo Pix Daniel Pedro da SILVA batista - 118.607.344-64 -,640.0,0.42,251.47
+78,2022-03-20,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,100.0,0.42,251.47
+79,2022-03-20,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-721.0,0.42,251.47
+80,2022-03-20,Recarga de celular,-25.0,0.42,251.47
+81,2022-03-21,Transferência enviada pelo Pix Dennys França da Silva - 234.496.998-57 - NU,-45.0,0.42,251.47
+82,2022-03-21,Recarga de celular,-15.0,0.42,251.47
+83,2022-03-22,Transferência recebida pelo Pix MIGUEL COSTA E SILVA - 171.733.947-67 - BCO,1000.0,0.42,251.47
+84,2022-03-22,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-1000.0,0.42,251.47
+85,2022-03-22,Transferência enviada pelo Pix VALDEMIR PEREIRA DA SILVA - 090.876.047-77 -,-10.0,0.42,251.47
+86,2022-03-23,Transferência recebida pelo Pix MIGUEL COSTA E SILVA - 171.733.947-67 - BCO,1000.0,0.42,251.47
+87,2022-03-23,Transferência recebida pelo Pix VICTOR WILLIAN BERGAMI LOURENCO -,100.0,0.42,251.47
+88,2022-03-23,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-1000.0,0.42,251.47
+89,2022-03-24,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,4000.0,0.42,251.47
+90,2022-03-24,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-105.0,0.42,251.47
+91,2022-03-24,Pagamento da fatura Cartão Nubank,-400.0,0.42,251.47
+92,2022-03-24,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-1400.0,0.42,251.47
+93,2022-03-24,Transferência enviada pelo Pix Miguel Costa e Silva - 171.733.947-67 - NU,-2200.0,0.42,251.47
+94,2022-03-26,Transferência Recebida Evaneth Alves Costa - 030.959.107-46 - NU,60.0,0.42,251.47
+95,2022-03-26,Transferência enviada pelo Pix Josemar Marques Lopes - 102.884.246-54 - NU,-59.0,0.42,251.47
+96,2022-03-30,Transferência recebida pelo Pix MIGUEL COSTA E SILVA - 171.733.947-67 - BCO,1000.0,0.42,251.47
+97,2022-03-30,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-1000.0,0.42,251.47
+98,2022-03-31,Transferência recebida pelo Pix MIGUEL COSTA E SILVA - 171.733.947-67 - BCO,400.0,0.42,251.47
+99,2022-03-31,Transferência Recebida Evaneth Alves Costa - 030.959.107-46 - NU,15.0,0.42,251.47
+100,2022-03-31,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,250.0,0.42,251.47
+101,2022-03-31,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-400.0,0.42,251.47
+102,2022-03-31,Recarga de celular,-15.0,0.42,251.47
+103,2022-04-01,Transferência recebida pelo Pix MIGUEL COSTA E SILVA - 171.733.947-67 - BCO,14.0,251.47,0.93
+104,2022-04-01,Transferência recebida pelo Pix Igor Costa campos - 151.889.867-01 - PAGSEGURO,5.7,251.47,0.93
+105,2022-04-01,Transferência recebida pelo Pix IGOR COSTA CAMPOS - 151.889.867-01 - BANCO,7.0,251.47,0.93
+106,2022-04-01,Transferência recebida pelo Pix Luiz Carlos Oliveira de Lima - 103.467.787-00 -,200.0,251.47,0.93
+107,2022-04-01,Transferência recebida pelo Pix ALESSON ROSA DA COSTA - 178.215.807-32 -,10.0,251.47,0.93
+108,2022-04-01,Pagamento da fatura Cartão Nubank,-265.0,251.47,0.93
+109,2022-04-01,Pagamento da fatura Cartão Nubank,-9.43,251.47,0.93
+110,2022-04-01,Transferência enviada pelo Pix Lta Gateway Intermediacao Financeira Ltda -,-203.0,251.47,0.93
+111,2022-04-05,Transferência enviada pelo Pix ROBERIO CAPUCHO 08194964725 - 19.805.756,-2.0,251.47,0.93
+112,2022-04-06,Transferência enviada pelo Pix ALCIMAR JOSE FERREIRA - 057.500.417-78 - CAIXA,-3.0,251.47,0.93
+113,2022-04-07,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,100.0,251.47,0.93
+114,2022-04-07,Transferência enviada pelo Pix Alesson Rosa da Costa - 178.215.807-32 - BANCO,-50.0,251.47,0.93
+115,2022-04-07,Transferência enviada pelo Pix jose chagas dos santos neto - 096.623.194-50 - NU,-40.0,251.47,0.93
+116,2022-04-08,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,100.0,251.47,0.93
+117,2022-04-08,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,900.0,251.47,0.93
+118,2022-04-08,Transferência enviada pelo Pix FELIPE BOTELHO DA COSTA - 139.911.417-44 -,-30.0,251.47,0.93
+119,2022-04-09,Transferência Recebida Dã Marcelo Menezes de Freitas - 167.293.817-10 -,50.0,251.47,0.93
+120,2022-04-09,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,50.0,251.47,0.93
+121,2022-04-09,Transferência enviada pelo Pix WILLIANS EUZEBIO MARIZ FERREIRA - 573.567.838-,-120.0,251.47,0.93
+122,2022-04-09,Transferência enviada pelo Pix Jomar Sales De Souza - 945.775.105-10 - PICPAY,-12.0,251.47,0.93
+123,2022-04-10,Transferência enviada pelo Pix Artur de Aquino Morais - 097.369.174-36 - BCO,-50.0,251.47,0.93
+124,2022-04-11,Transferência recebida pelo Pix Daniel Pedro da SILVA batista - 118.607.344-64 -,780.0,251.47,0.93
+125,2022-04-11,Transferência Recebida Evaneth Alves Costa - 030.959.107-46 - NU,20.0,251.47,0.93
+126,2022-04-11,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,250.0,251.47,0.93
+127,2022-04-11,Pagamento de boleto efetuado CARTOES CAIXA VISA PF,-877.93,251.47,0.93
+128,2022-04-11,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-805.0,251.47,0.93
+129,2022-04-11,Transferência enviada pelo Pix jose chagas dos santos neto - 096.623.194-50 - NU,-20.0,251.47,0.93
+130,2022-04-11,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-180.0,251.47,0.93
+131,2022-04-12,Transferência recebida pelo Pix Lucimara Santos Da Silva - 137.301.947-63 - BCO,14.0,251.47,0.93
+132,2022-04-12,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-70.0,251.47,0.93
+133,2022-04-12,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-14.0,251.47,0.93
+134,2022-04-13,Transferência recebida pelo Pix Daniel Pedro da SILVA batista - 118.607.344-64 -,700.0,251.47,0.93
+135,2022-04-13,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-700.0,251.47,0.93
+136,2022-04-18,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,240.0,251.47,0.93
+137,2022-04-19,Transferência recebida pelo Pix ALESSON ROSA DA COSTA - 178.215.807-32 -,45.0,251.47,0.93
+138,2022-04-19,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-240.0,251.47,0.93
+139,2022-04-19,Transferência enviada pelo Pix Luiz Fernando Costa Silva - 123.121.357-44 - BCO,-12.0,251.47,0.93
+140,2022-04-19,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-33.0,251.47,0.93
+141,2022-04-21,Transferência Recebida Evaneth Alves Costa - 030.959.107-46 - NU,15.0,251.47,0.93
+142,2022-04-21,Recarga de celular,-15.0,251.47,0.93
+143,2022-04-26,Transferência recebida pelo Pix RICHARD AMORIM MARTINS - 176.875.557-40 -,12.0,251.47,0.93
+144,2022-04-26,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-12.0,251.47,0.93
+145,2022-04-28,Transferência recebida pelo Pix PEDRO ALVES GUERRA SCARPELLI REIS -,0.01,251.47,0.93
+146,2022-04-29,Transferência Recebida João Alberto Jimenez Moreira de Amorim Calmon -,0.01,251.47,0.93
+147,2022-05-01,Transferência Recebida Sandro de Jesus Moreira - 176.013.147-40 - NU,16.0,0.93,33.45
+148,2022-05-01,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-16.0,0.93,33.45
+149,2022-05-02,Transferência recebida pelo Pix EVANETH ALVES COSTA - 030.959.107-46 - CAIXA,1.0,0.93,33.45
+150,2022-05-03,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,212.5,0.93,33.45
+151,2022-05-03,Transferência recebida pelo Pix EVANETH ALVES COSTA - 030.959.107-46 - CAIXA,3000.0,0.93,33.45
+152,2022-05-03,Transferência recebida pelo Pix EVANETH ALVES COSTA - 030.959.107-46 - CAIXA,1600.0,0.93,33.45
+153,2022-05-03,Transferência recebida pelo Pix Daniel Pedro da SILVA batista - 118.607.344-64 -,1340.0,0.93,33.45
+154,2022-05-03,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-212.0,0.93,33.45
+155,2022-05-03,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-4600.0,0.93,33.45
+156,2022-05-03,Pagamento da fatura Cartão Nubank,-331.43,0.93,33.45
+157,2022-05-03,Transferência enviada pelo Pix PAGSMILE - 23.010.551/0001-31 - BCO BS2 S.A.,-600.0,0.93,33.45
+158,2022-05-03,Transferência enviada pelo Pix Maria Andreia Souza da Silva Tenório -,-5.0,0.93,33.45
+159,2022-05-03,Transferência enviada pelo Pix Deivid Gabriel Rosa Da Silva - 864.560.590-20 -,-100.0,0.93,33.45
+160,2022-05-04,Transferência Recebida Ruan Henrique De Almeida Alvim - 148.866.657-13 -,10.0,0.93,33.45
+161,2022-05-04,Transferência recebida pelo Pix ALESSON ROSA DA COSTA - 178.215.807-32 -,12.0,0.93,33.45
+162,2022-05-04,Transferência enviada pelo Pix Josemar Marques Lopes - 102.884.246-54 - NU,-59.0,0.93,33.45
+163,2022-05-04,Transferência enviada pelo Pix WINNE WALERIA CRUZ DE OLIVEIRA - 024.487.332-,-13.0,0.93,33.45
+164,2022-05-04,Transferência enviada pelo Pix TATU LANCHES - 13.320.539/0001-70 - BCO,-20.0,0.93,33.45
+165,2022-05-06,Estorno - Transferência enviada pelo  Adyen do Brasil LTDA - 14.796.606/0001-90 -,19.89,0.93,33.45
+166,2022-05-06,Transferência recebida pelo Pix ALBA MARA MATHEUS DOS SANTOS -,20.0,0.93,33.45
+167,2022-05-06,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,120.0,0.93,33.45
+168,2022-05-06,Pagamento de boleto efetuado MIDWAY,-6.0,0.93,33.45
+169,2022-05-06,Recarga de celular,-15.0,0.93,33.45
+170,2022-05-06,Transferência enviada pelo Pix Adyen do Brasil LTDA - 14.796.606/0001-90 -,-19.89,0.93,33.45
+171,2022-05-07,Transferência enviada pelo Pix TATU LANCHES - 13.320.539/0001-70 - BCO,-5.0,0.93,33.45
+172,2022-05-08,Transferência recebida pelo Pix MARCOS PAULO BARROS DA SILVA PEREIRA -,1.0,0.93,33.45
+173,2022-05-08,Transferência enviada pelo Pix TATU LANCHES - 13.320.539/0001-70 - BCO,-12.0,0.93,33.45
+174,2022-05-08,Transferência enviada pelo Pix FELIPE BOTELHO DA COSTA - 139.911.417-44 -,-20.0,0.93,33.45
+175,2022-05-09,Transferência recebida pelo Pix Anderson Calmon - 127.886.617-54 - PICPAY (0380),12.0,0.93,33.45
+176,2022-05-09,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,120.0,0.93,33.45
+177,2022-05-09,Pagamento de boleto efetuado ESCELSA ESPIRITO SANTO,-269.69,0.93,33.45
+178,2022-05-09,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-12.0,0.93,33.45
+179,2022-05-09,Transferência enviada pelo Pix Henrique Viegas da Silva - 452.587.018-40 - NU,-100.0,0.93,33.45
+180,2022-05-10,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,250.0,0.93,33.45
+181,2022-05-10,Transferência recebida pelo Pix PAGSMILE INTERMEDIACAO E AGENCIAMENTO DE,120.0,0.93,33.45
+182,2022-05-10,Transferência enviada pelo Pix WILLIANS EUZEBIO MARIZ FERREIRA - 573.567.838-,-120.0,0.93,33.45
+183,2022-05-10,Transferência enviada pelo Pix Evaneth Alves Costa - 030.959.107-46 - NU,-55.0,0.93,33.45
+184,2022-05-10,Transferência enviada pelo Pix VALDEMIR PEREIRA DA SILVA - 090.876.047-77 -,-10.0,0.93,33.45
+185,2022-05-10,Transferência enviada pelo Pix Luiz Fernando Costa Silva - 123.121.357-44 - BCO,-12.0,0.93,33.45
+186,2022-05-11,Recarga de celular,-20.0,0.93,33.45
+187,2022-05-12,Transferência Recebida Thainá Yumi Ideriha - 393.250.008-30 - NU,1.0,0.93,33.45
+188,2022-05-15,Transferência enviada pelo Pix TATU LANCHES - 13.320.539/0001-70 - BCO,-10.0,0.93,33.45
+189,2022-05-16,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,265.0,0.93,33.45
+190,2022-05-17,Transferência enviada pelo Pix Maria da Penha Alves Costa Silva - 099.369.277-02,-412.0,0.93,33.45
+191,2022-05-18,Transferência recebida pelo Pix GIOVANI L B SANTOS - 455.610.048-83 - BCO DO,0.5,0.93,33.45
+192,2022-05-18,Transferência enviada pelo Pix Maria Barbara Souza Da Silva - 040.302.195-27 -,-9.0,0.93,33.45
+193,2022-05-18,Pagamento da fatura Cartão Nubank,-57.0,0.93,33.45
+194,2022-05-19,Transferência enviada igor costa campos - 151.889.867-01 - BCO,-1.1,0.93,33.45
+195,2022-05-24,Transferência recebida pelo Pix SERGIO L G SOUZA 10063272741 - 13.320.539,160.0,0.93,33.45
+196,2022-05-24,Transferência enviada pelo Pix Karina Pereira Barcellos Broseghini - 079.402.197-,-5.38,0.93,33.45
+197,2022-05-24,Transferência enviada pelo Pix Maria Andreia Souza da Silva Tenório -,-15.0,0.93,33.45
+198,2022-05-24,Transferência enviada pelo Pix VALDEMIR PEREIRA DA SILVA - 090.876.047-77 -,-10.0,0.93,33.45
+199,2022-05-25,Transferência enviada pelo Pix LINHARES CARTORIO DO 1 OFICIO - 27.562.305,-50.18,0.93,33.45
+200,2022-05-26,Débito em conta,-22.0,0.93,33.45
+201,2022-05-26,Transferência enviada pelo Pix Yasmin Marques de Oliveira Dias - 162.124.057-60 -,-10.0,0.93,33.45
+202,2022-05-27,Transferência recebida pelo Pix Victor Augusto Mota Fossaluzza - 401.387.688-46 -,0.99,0.93,33.45
+203,2022-05-27,Recarga de celular,-15.0,0.93,33.45

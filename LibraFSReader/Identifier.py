@@ -1,4 +1,3 @@
-from LibraFSReader import GetPDFText
 import re
 
 def IsBancoBrasil1(text):

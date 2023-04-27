@@ -1,5 +1,12 @@
 import re
 import GetPDFText
+import Reader.Nubank as Nubank
+
+def Reader(typeOfStatement, file_path):
+    switcher = {
+        'Nubank': Nubank.Read(file_path),
+    }
+    return switcher.get(typeOfStatement, "Invalid case")
 
 def ReadBancoBrasil1(text):
     
