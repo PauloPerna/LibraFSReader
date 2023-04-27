@@ -1,6 +1,4 @@
 import unittest
-# import sys
-# sys.path.append('..')
 from ..Identifier import IsNubank
 
 class TestIsNubank(unittest.TestCase):

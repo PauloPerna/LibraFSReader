@@ -33,7 +33,6 @@ def GetAllElementsFromPages(pages):
 def ReMatchPattern(pattern, string):
     return len(re.findall(pattern,string))>0
 
-# Valores estão na última coluna e possuem o formato "[0-9\\.]+,[0-9]{2}"
 def GetAllTransactionsPositions(all_elements):
     # O parametro x1 define o filtro de posição dos elementos
     # pode precisar ser alterado!!!
@@ -79,10 +78,8 @@ def GetTransactions(file_path):
     transaction_position = GetAllTransactionsPositions(all_elements)
     date_position = GetAllDatePositions(all_elements)
     all_positions = MashUpDicts(transaction_position,date_position)
-
     sign_position = GetAllSignPositions(all_elements)
     all_positions = MashUpDicts(all_positions,sign_position)
-
     initial_balance = 0
     final_balance = 0
     date = "01 JAN 1999"
@@ -104,13 +101,13 @@ def GetTransactions(file_path):
                     transactions.append(Transaction(date,description,value,initial_balance,final_balance))
             if y1 in date_position[key]:
                 date = mov[0].get_text().replace('\n','')
-                date = re.sub('FEV','FEB',date)
-                date = re.sub('ABR','APR',date)
-                date = re.sub('MAI','MAY',date)
-                date = re.sub('AGO','AUG',date)
-                date = re.sub('SET','SEP',date)
-                date = re.sub('OUT','OCT',date)
-                date = re.sub('DEZ','DEC',date)
+                date = str.replace(date, 'FEV','FEB')
+                date = str.replace(date, 'ABR','APR')
+                date = str.replace(date, 'MAI','MAY')
+                date = str.replace(date, 'AGO','AUG')
+                date = str.replace(date, 'SET','SEP')
+                date = str.replace(date, 'OUT','OCT')
+                date = str.replace(date, 'DEZ','DEC')
             if y1 in sign_position[key]:
                 if 'Total de entradas\n' in [m.get_text() for m in mov]:
                     sign = 'positivo'

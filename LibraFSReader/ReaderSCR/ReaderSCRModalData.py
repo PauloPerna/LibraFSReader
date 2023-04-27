@@ -20,13 +20,18 @@ def ApagarLinhasPerc(df):
     df[df.columns[1]][range(2,len(df),2)] = pd.NA
     return df
 
+def CleanStringNAN(l):
+    l = re.sub(' nan$','',l)
+    l = l.strip()
+    return l
+
 def UnirLinhasNA2(df):
     i = 0
     while i < len(df):
         if pd.isna(df[df.columns[1]][i]):
             df[df.columns[0]][i-1] = df[df.columns[0]][i-1] + ' ' + str(df[df.columns[0]][i])
         i+=1
-    df[df.columns[0]] = [re.sub('nan','',m) if not pd.isna(m) else '' for m in df[df.columns[0]]]
+    df[df.columns[0]] = [CleanStringNAN(m) if not pd.isna(m) else '' for m in df[df.columns[0]]]
     return df
 
 def RemoverLinhasNA(df):
